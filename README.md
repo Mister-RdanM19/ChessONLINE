@@ -33,11 +33,6 @@ Proyek ini dibangun menggunakan teknologi web modern untuk memastikan performa y
 
 > **Info:** Antarmuka menggunakan tema eksklusif *Dark Wood* dengan aksen warna `#81b64c` (Chess.com style).
 <img src="https://raw.githubusercontent.com/Mister-RdanM19/ChessONLINE/refs/heads/main/chess.png">
-* **Login Layer:** Keamanan akses untuk admin dan user.
-* **Game Board:** Papan catur responsif dengan notasi langkah.
-* **Side Panel:** Informasi rating, timer, dan riwayat langkah (PGN).
-
-
 
 
 
